@@ -1,7 +1,7 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1757，更新于：2026-02-01 21:43:36。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1757,
+    "description": "当前数量：1758，更新于：2026-02-01 21:43:36。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1758,
     "update_at": "2026-02-01 21:43:36",
     "icons": [
         {
@@ -3207,6 +3207,10 @@
         {
             "name": "linux-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/linux-1.png"
+        },
+        {
+            "name": "linuxdo-1",
+            "url": "https://raw.githubusercontent.com/keket0/HD-Icons/main/border-radius/linuxdo-1.png"
         },
         {
             "name": "listmonk-1",
