@@ -1,7 +1,7 @@
 {
     "name": "小迪的HD-Icons",
-    "description": "当前数量：1759，更新于：2026-02-01 21:43:36。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
-    "total_count": 1759,
+    "description": "当前数量：1760，更新于：2026-02-01 21:43:36。不定期更新，有需求欢迎提交：github.com/xushier/HD-Icons",
+    "total_count": 1760,
     "update_at": "2026-02-01 21:43:36",
     "icons": [
         {
@@ -331,6 +331,10 @@
         {
             "name": "ariang-1",
             "url": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/ariang-1.png"
+        },
+        {
+            "name": "aspose-1",
+            "url": "https://raw.githubusercontent.com/keket0/HD-Icons/main/border-radius/aspose-1.png"
         },
         {
             "name": "asus-router-1",
